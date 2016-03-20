@@ -35,6 +35,18 @@ app.controller('MainController', ['$scope', function($scope) {
     title: 'Shutterbugg',
     developer: 'Chico Dusty',
     price: 2.99
+  },
+  {
+  icon: '',
+  title: 'Mobile Game 1',
+  developer: 'Mobile Dev 1',
+  price: 4.99
+  },
+  {
+  icon: '',
+  title: 'Mobile Game 2',
+  developer: 'Mobile Dev 2',
+  price: 3.99
   }
 ]
 }]);
